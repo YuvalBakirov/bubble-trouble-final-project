@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "v3DXSNo3Eo17tg7qky6xgPafiQlLHMGR4OpfLCp3JUlBB6jOp6Unk1NPKDG3BoMi+ZPJERnoTdVudxdf4b1w0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eitan\\OneDrive\\Desktop\\FinalProject\\BubbleTrouble\\BubbleTrouble\\BubbleTrouble.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eitan\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\eitan\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\eitan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\eitan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\eitan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\eitan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

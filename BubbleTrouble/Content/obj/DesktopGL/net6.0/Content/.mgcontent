@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Goblin/BackGround_Floor.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Goblin/BackGround.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Goblin/BackGround1_Floor.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Goblin/BackGround1.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Goblin/Ball1.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Goblin/Ball2.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Goblin/Button.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Goblin/ExitButton.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Goblin/Fire.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Goblin/Lose.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Goblin/Menu.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Goblin/Stance.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Goblin/Tie.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Goblin/Walk.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Goblin/Win.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Man/Fire.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Man/Stance.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Man/Walk.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Naruto/floorexp.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Naruto/Hidden_Leaf_Floor.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Naruto/Hidden_Leaf.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Naruto/Run.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Naruto/Stance.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/Naruto/Walk.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/SpriteFont1.spritefont</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/SupriseBox/Freeze.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/SupriseBox/LessHealth.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/SupriseBox/LessPoints.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/SupriseBox/MoreHealth.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/SupriseBox/MorePoints.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/SupriseBox/MoreTime.png</File>
+    <File>C:/Users/eitan/OneDrive/Desktop/FinalProject/BubbleTrouble/BubbleTrouble/Content/SupriseBox/TwoArrows.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
