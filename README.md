@@ -46,7 +46,7 @@ Movement:</br>
 Right - Press "Right arrow" </br>
 Left - Press "Left arrow" </br>
 Jump - Press "Upword arrow" </br>
-</br></br>
+</br>
 Shoot:</br>
 Shoot - Press "Spacebar"
 
