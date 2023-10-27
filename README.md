@@ -26,12 +26,16 @@ A game ends as soon as one of the players runs out of life or as soon as the tim
 
 ## The progress of the game
 
-In the game map there are balls in four colors (red, blue, black and yellow). </br>
-The red ball belongs to us while the blue ball belongs to the bot. The yellow ball, belongs to both players and its main purpose is to add some action. The black ball is a rolling ball that appears every half minute which cannot be hit, its purpose is to hit the players legs to drop their health down. </br>
-A player can only shoot an arrow while standing on the ground and not moving. Hitting any of the balls (red, blue and yellow), will cause the ball to explode into two smaller balls. Note that a player hitting the opponent's ball will not blow up his ball.
-A shot can only be fired once there is no shot in the air. You can fire several shots at the same time only when you grabbed a box that contains the option to fire one more shot at the same time (up to three shots at the same time). </br>
-During the game, boxes fall from the sky. There are five types of boxes, plus life, minus life, plus score, minus score, plus shot and to freeze the player. 
-The player has 1000 lives. A normal bullet hit will give you 50 points, but if the ball hits you - you drop down 50 health. A yellow ball is a ball which the health it takes  and the number of points it gives you is a random number between 0-100. A black ball will drop your health down by 20. A box of life/score lowers or increases 50 life/score.
+In the game there are balls in four colors (red, blue, black and yellow). </br>
+The red ball belongs to us while the blue ball belongs to the bot. The yellow ball belongs to both players and its main purpose is to add some action. The black ball is a rolling ball that appears every half minute which cannot be hit, its purpose is to hit the players legs to drop their health down. </br>
+A shot can only be fired once there is no shot in the air.
+A player can only shoot an arrow while standing on the ground and not moving. Hitting any of the balls (red, blue and yellow), will cause the ball to explode into two smaller balls. Note that a player hitting the opponent's ball will not blow up its ball.
+During the game, boxes fall from the sky. There are five types of boxes, plus health, minus health, plus score, minus score, plus shot and to freeze the player. 
+When you grabbed a box "plus shot", you can fire several shots at the same time (up to 3 shots). 
+The box of "minus/plus score/health" lowers or increases 50 score/health. 
+The box that freezing a player freezes him for a couple of seconds.</br>
+A player has 1000 health.</br>
+A normal bullet hit will give you 50 points, but if the ball hits you - you drop down 50 health. A yellow ball is a ball which the health it takes and the number of points it gives you is a random number between 0-100. A black ball will drop your health down by 20. 
 Good Luck!
 
 
