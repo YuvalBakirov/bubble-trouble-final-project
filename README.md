@@ -22,7 +22,6 @@ A game ends as soon as one of the players runs out of life or as soon as the tim
 <img width="452" alt="image" src="https://github.com/YuvalBakirov/bubble-trouble-final-project/assets/38374216/f265023b-10eb-4ade-93a7-a8646ce0a5bc">
 <img width="112" alt="image" src="https://github.com/YuvalBakirov/bubble-trouble-final-project/assets/38374216/c8c23408-03cf-4019-8cf5-b5642ed72722">
 <img width="114" alt="image" src="https://github.com/YuvalBakirov/bubble-trouble-final-project/assets/38374216/9937482e-4809-4ee6-9283-cab23467c4a7">
-<img width="452" alt="image" src="https://github.com/YuvalBakirov/bubble-trouble-final-project/assets/38374216/a98b1e8f-e56a-4b77-80f9-a22e0ed6cc36">
 
 
 
