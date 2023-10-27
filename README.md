@@ -16,8 +16,13 @@ A game ends as soon as one of the players runs out of life or as soon as the tim
 ## Screenshots
 
 <img width="452" alt="image" src="https://github.com/YuvalBakirov/bubble-trouble-final-project/assets/38374216/d5fcc47e-a483-415f-a013-2ec9fabb7d65">
-<img width="236" alt="image" src="https://github.com/YuvalBakirov/bubble-trouble-final-project/assets/38374216/404f1cd2-b39b-4ac1-99c2-417c483ad402">
+<img width="452" alt="image" src="https://github.com/YuvalBakirov/bubble-trouble-final-project/assets/38374216/82ca7a3e-2584-44c2-bf08-8dec2c584214">
 <img width="507" alt="image" src="https://github.com/YuvalBakirov/bubble-trouble-final-project/assets/38374216/34b4b41b-40c8-41d1-b71d-ede9d27d5c50">
+<img width="452" alt="image" src="https://github.com/YuvalBakirov/bubble-trouble-final-project/assets/38374216/3dbd7414-006b-49cb-8eab-bace909892fd">
+<img width="452" alt="image" src="https://github.com/YuvalBakirov/bubble-trouble-final-project/assets/38374216/f265023b-10eb-4ade-93a7-a8646ce0a5bc">
+<img width="112" alt="image" src="https://github.com/YuvalBakirov/bubble-trouble-final-project/assets/38374216/c8c23408-03cf-4019-8cf5-b5642ed72722">
+<img width="114" alt="image" src="https://github.com/YuvalBakirov/bubble-trouble-final-project/assets/38374216/9937482e-4809-4ee6-9283-cab23467c4a7">
+<img width="452" alt="image" src="https://github.com/YuvalBakirov/bubble-trouble-final-project/assets/38374216/a98b1e8f-e56a-4b77-80f9-a22e0ed6cc36">
 
 
 
