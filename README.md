@@ -52,8 +52,8 @@ Shoot - Press "Spacebar"
 
 ## Contact
 
-For more information contact Yuval Bakirov
-Email - yuvalbakirov@gmail.com 
+For more information contact Yuval Bakirov </br>
+Email - yuvalbakirov@gmail.com </br>
 Github - https://github.com/YuvalBakirov
 
 
