@@ -42,12 +42,12 @@ Good Luck :)
 
 ## Keys
 
-Movement:
-Right - Press "Right arrow"
-Left - Press "Left arrow"
-Jump - Press "Upword arrow"
-
-Shoot:
+Movement:</br>
+Right - Press "Right arrow" </br>
+Left - Press "Left arrow" </br>
+Jump - Press "Upword arrow" </br>
+</br></br>
+Shoot:</br>
 Shoot - Press "Spacebar"
 
 ## Contact
