@@ -37,8 +37,25 @@ The box that freezing a player freezes him for a couple of seconds.</br>
 There is 120 seconds to play and each player has 1000 health.</br>
 A normal bullet hit will give you 50 points, but if the ball hits you - you drop down 50 health. A yellow ball is a ball which the health it takes and the number of points it gives you is a random number between 0-100. A black ball will drop your health down by 20. </br>
 
-A game ends if one of the players has no health or alternatively if the time runs out :)
-Good Luck!
+A game ends if the time runs out or if one of the players left with no health! </br>
+Good Luck :)
+
+## Keys
+
+Movement:
+Right - Press "Right arrow"
+Left - Press "Left arrow"
+Jump - Press "Upword arrow"
+
+Shoot:
+Shoot - Press "Spacebar"
+
+## Contact
+
+For more information contact Yuval Bakirov
+Email - yuvalbakirov@gmail.com 
+Github - https://github.com/YuvalBakirov
+
 
 
 
