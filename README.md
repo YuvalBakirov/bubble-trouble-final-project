@@ -13,5 +13,10 @@ Each player has health and a number of points.
 A game ends as soon as one of the players runs out of life or as soon as the time runs out, and the player with the higher score wins. 
 
 
+##Screenshots
+
+<img width="452" alt="image" src="https://github.com/YuvalBakirov/bubble-trouble-final-project/assets/38374216/d5fcc47e-a483-415f-a013-2ec9fabb7d65">
+
+
 
 
