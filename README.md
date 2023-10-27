@@ -34,8 +34,10 @@ During the game, boxes fall from the sky. There are five types of boxes, plus he
 When you grabbed a box "plus shot", you can fire several shots at the same time (up to 3 shots). 
 The box of "minus/plus score/health" lowers or increases 50 score/health. 
 The box that freezing a player freezes him for a couple of seconds.</br>
-A player has 1000 health.</br>
+There is 120 seconds to play and each player has 1000 health.</br>
 A normal bullet hit will give you 50 points, but if the ball hits you - you drop down 50 health. A yellow ball is a ball which the health it takes and the number of points it gives you is a random number between 0-100. A black ball will drop your health down by 20. </br>
+
+A game ends if one of the players has no health or alternatively if the time runs out :)
 Good Luck!
 
 
